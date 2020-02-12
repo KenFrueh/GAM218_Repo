@@ -2769,3 +2769,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-06.52.56:668][146]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2020.02.12-06.52.56:668][146]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2020.02.12-06.52.56:668][146]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.12-06.53.09:215][146]LogExit: Editor shut down
+[2020.02.12-06.53.09:890][146]LogExit: Transaction tracking system shut down
+[2020.02.12-06.53.11:041][146]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
