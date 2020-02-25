@@ -7281,3 +7281,7 @@ Make sure 'Drone_BP_C' has been compiled for  Get BaseTurnRate
 [2020.02.25-05.06.02:160][541]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2020.02.25-05.06.02:163][541]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2020.02.25-05.06.02:166][541]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-05.06.19:562][541]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-05.06.19:766][541]LogExit: Editor shut down
+[2020.02.25-05.06.20:153][541]LogExit: Transaction tracking system shut down
+[2020.02.25-05.06.21:299][541]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
