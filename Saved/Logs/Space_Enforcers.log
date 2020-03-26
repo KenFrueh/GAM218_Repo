@@ -1646,3 +1646,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.26-22.12.06:456][294]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2020.03.26-22.12.06:460][294]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2020.03.26-22.12.06:474][294]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.26-22.12.25:407][294]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.26-22.12.25:455][294]LogExit: Editor shut down
+[2020.03.26-22.12.26:544][294]LogExit: Transaction tracking system shut down
+[2020.03.26-22.12.27:735][294]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
